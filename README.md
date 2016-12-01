@@ -1,2 +1,2 @@
-# ror-crud
+# rails-crud
 Rails CRUD
